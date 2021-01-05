@@ -1,4 +1,4 @@
-package br.com.codered.dsdeliver;
+package br.com.codered.com.br.dsdeliver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
